@@ -13,11 +13,11 @@
 
 @font-face {
 	font-family: 'puls4';
-	src:url('fuentes/puls4.eot');
-	src:url('fuentes/puls4.eot?#iefix') format('embedded-opentype'),
-		url('fuentes/puls4.woff') format('woff'),
-		url('fuentes/puls4.ttf') format('truetype'),
-		url('fuentes/puls4.svg#puls4') format('svg');
+	src:url('../fuentes/puls4.eot');
+	src:url('../fuentes/puls4.eot?#iefix') format('embedded-opentype'),
+		url('../fuentes/puls4.woff') format('woff'),
+		url('../fuentes/puls4.ttf') format('truetype'),
+		url('../fuentes/puls4.svg#puls4') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
